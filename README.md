@@ -1,5 +1,10 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
+
+## Tableau Story & Visualization Lab
+You can view the interactive Tableau story and dashboard here:
+[Tableau Story - Advanced Tableau Visualization Lab](https://public.tableau.com/app/profile/lervin.de.la.rosa/viz/tableau-lab-completed/Story1?publish=yes)
+
 # Lab | Advanced Tableau Visualization
 
 ### Learning Outcomes
